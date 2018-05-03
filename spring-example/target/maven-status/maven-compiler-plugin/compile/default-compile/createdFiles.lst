@@ -1,0 +1,16 @@
+net\viralpatel\spring\config\CascadeCallback.class
+net\viralpatel\spring\model\UserCascadeSaveMongoEventListener.class
+net\viralpatel\spring\config\CascadeSave.class
+net\viralpatel\spring\config\CascadeSaveMongoEventListener.class
+net\viralpatel\spring\model\Customer.class
+net\viralpatel\spring\config\AppConfig.class
+net\viralpatel\spring\config\EmailAddress.class
+net\viralpatel\spring\controller\CustomerRestController.class
+net\viralpatel\spring\model\UserWriterConverter.class
+net\viralpatel\spring\config\FieldCallback.class
+net\viralpatel\spring\model\User.class
+net\viralpatel\spring\config\MongoConfig.class
+net\viralpatel\spring\config\SimpleMongoConfig.class
+net\viralpatel\spring\config\UserRepository.class
+net\viralpatel\spring\config\AppInitializer.class
+net\viralpatel\spring\dao\CustomerDAO.class
